@@ -1,0 +1,17 @@
+<resources>
+    <string name="appName">Countries</string>
+    <string name="loading_message">Fetching countries…</string>
+    <string name="detailName">Name:</string>
+    <string name="detailCapital">Capital:</string>
+    <string name="detailRegion">Region:</string>
+    <string name="detailPopulation">Population:</string>
+    <string name="detailLanguage">Language:</string>
+    <string name="detailCurrencies">Currencies:</string>
+    <string name="detailCurrenciesName">Name:</string>
+    <string name="detailCurrency">Currency:</string>
+    <string name="detailSymbol">Symbol:</string>
+    <string name="detailTraffic">Traffic:</string>
+    <string name="detailHand">hand</string>
+    <string name="detailNumberPlateSign">Numberplate signs:</string>
+    <string name="detailTimezones">Timezones:</string>
+</resources>
